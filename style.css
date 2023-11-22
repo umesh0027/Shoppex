@@ -245,7 +245,7 @@ padding: 0px 20px;
   display: none;
 }
 #hero{
-  background-image: url("img/hero4.png");
+   background-image: url("img/home_img1.jpg");
   height: 90vh;
   width: 100%;
   background-size: cover;
@@ -261,9 +261,10 @@ justify-content: center;
 #hero h4{
   padding-bottom: 15px;
 }
-#hero h1{
-  color: greenyellow;
+#hero p{
+ color: white;
 }
+
 #hero button{
  background-color: black;
  color: white;
