@@ -103,7 +103,7 @@ var options = {
         color: "#000",
     },
     image:
-        "https://www.mintformations.co.uk/blog/wp-content/uploads/2020/05/shutterstock_583717939.jpg",
+        "https://i.ebayimg.com/images/g/oBoAAOSwlCxi7WkW/s-l300.png",
 };
 
 document.getElementById("checkout").onclick = function (e) {
