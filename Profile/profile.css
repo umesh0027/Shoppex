@@ -36,6 +36,7 @@ header {
 } */
 .logo-shoppex1{
     height: 40px;
+       border-radius: 2px;
 }
 #navbar a{
     text-decoration: none;
