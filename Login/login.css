@@ -39,6 +39,7 @@ header {
 } */
 .logo-shoppex1{
     height: 40px;
+       border-radius: 2px;
 }
 #navbar{
     display: flex;
